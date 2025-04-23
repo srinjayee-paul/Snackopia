@@ -11,7 +11,7 @@ try:
     mydb = pm.connect(
         host="localhost",
         user="root",
-        passwd="joyee@15",
+        passwd="0123456789",
         database="snackopia",
         charset="utf8"
     )
