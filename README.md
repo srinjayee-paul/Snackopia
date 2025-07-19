@@ -20,8 +20,6 @@ The system follows this data stream process:
 3. Detected objects are connected to database entries. 
 4. The bill is consistently updated and displayed on the user interface.
 
-<img src="https://media-hosting.imagekit.io/42978bf1ec87472a/Screenshot_13.jpg?Expires=1839997042&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TMJe2su8VAn~ICvPNjTjsY1EnXe05GlZPIJ9gF6nQTlg9-8ruaJZUxyAwN0pz0DMwbxe6PmO9AolEkPY0RbMdDoupmgd76rNrp2JhpdsTo6pghaxZOhvi54fn0bbDsBQrxwb-PctjgOSEx9M72tm0mWTJmmA3KWBL41lsIds5~evli4EPiHrBDVladsbecrSvm3TDBCo7nWL6OWDQyCzHKpvmyhMn9~tNwJp2PLqopho~kfp4biHvY~Cl~N80yTRSe7elq98B6LeBdAZbnaGKvLJTbJ0QP2TqjfoX34hOenw7yPcSlOG5xrsOtS2Hcaxtlw8xFKQ4nGyvK~4bL6Rcw__" width="400"/>
-
 ## Implementation
 
 ### <ins>Data Collection & Preprocessing</ins>
